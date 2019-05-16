@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.d-inline {
+    display: inline;
+}
+
+.d-inline-block {
+    display: inline-block;
+}
+
+.d-block {
+    display: block;
+}
+
+.d-grid {
+    display: grid;
+}
+
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+
+ul {
+    list-style: none;
+}
+
+.hmargin {
+    margin-bottom: 20px;
+}
+
+.secmargin {
+    margin-bottom: 70px;
+}
+
+.txt-dark-gray {
+    color: #303030;
+}
+
+.txt-light-gray {
+    color: #7e7e80;
+}
+
+.txt-white {
+    color: #fff;
+}
+
+
+/* styles */
+.form-signin{
+    width: 25%;
+    margin: 0 auto;
+}
+
+.error-msg{
+    color: tomato;
+}
